@@ -2,15 +2,21 @@
 
 Custom themes for Valenced.
 
-## RBW AMOLED
+## Installation
 
-AMOLED black base with red, grey & white accents.
+To install themes, add the following URL in **Settings > Valenced > Plugins > (+) > Add Theme URL**:
 
-**Installation (via Legacy Themes):**
-
-1. Install **Legacy Themes** plugin from the official community repo
-2. Go to **Settings > Valenced > Plugins > (+) > Add Theme URL**
-3. Enter:
 ```
 https://raw.githubusercontent.com/DEAD1nsane/discord-themes/main/Themes/DARK/RBW%20AMOLED.json
 ```
+
+## Available Themes
+
+- **RBW AMOLED** - AMOLED black base with red, grey & white accents
+
+More themes available at: https://github.com/DEAD1nsane/discord-themes
+
+## Plugin Index
+
+The plugin index is available at:
+https://raw.githubusercontent.com/DEAD1nsane/turbo-unofficial-repo/main/index.json
