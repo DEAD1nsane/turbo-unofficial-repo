@@ -1,0 +1,34 @@
+{
+	"format": 1,
+	"name": "DEAD1nsane's Themes",
+	"description": "Custom themes for Valenced.",
+	"plugins": {
+		"dead1nsane.rbw-amoled": {
+			"name": "RBW AMOLED",
+			"description": "AMOLED black base with red, grey & white accents. Dark mode only.",
+			"author": "im__turbo__ <288054683161853952> (https://github.com/DEAD1nsane \"GitHub\")",
+			"icon": "FlashIcon",
+			"channels": {
+				"latest": "1.0.0"
+			},
+			"versions": {
+				"1.0.0": {
+					"url": "https://raw.githubusercontent.com/DEAD1nsane/discord-themes/main/Themes/DARK/RBW%20AMOLED.json",
+					"sha256": "TODO",
+					"size": 0,
+					"dependencies": {
+						"valenced.api": {
+							"version": ">=1 <2"
+						},
+						"discord": {
+							"version": "*"
+						},
+						"valenced.api.themes": {
+							"version": "*"
+						}
+					}
+				}
+			}
+		}
+	}
+}
